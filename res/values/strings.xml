@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">OpMobScan</string>
+    <string name="action_settings">Settings</string>
+    <string name="scan_button">Scan</string>
+    <string name="Operator">Operatore</string>
+    <string name="Type">Tipo</string>
+    <string name="Signal">Segnale</string>
+
+</resources>
